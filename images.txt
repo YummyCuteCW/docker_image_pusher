@@ -1,2 +1,6 @@
 nginx
 andywuwu/coze2openai:latest
+mysql
+redis
+
+
